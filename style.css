@@ -1,3 +1,9 @@
 p{
     counter-reset: violet;
 }
+p{
+    width: 18px;
+}
+p{
+    color: pink;
+}
